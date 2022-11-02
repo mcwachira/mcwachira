@@ -6,8 +6,8 @@ Full Stack Developer
 
 I am a dreamer . A fullstack developer who keeps learning to improve myself and achieve that goal of becoming a software architect . I lover of all things Javascript , someone who likes experimenting with new frameworks and tools and building software solutions.
 
-* 🌍  I'm based in A guy who
-* 🖥️  See my portfolio at [Nairobi](http://https://mcwachira.dev/)
+* 🌍  I'm based in Nairobi
+* 🖥️  See my portfolio at [mcwachira](http://https://mcwachira.dev/)
 * ✉️  You can contact me at [mcwachira@outlook.com](mailto:mcwachira@outlook.com)
 * 🧠  I'm learning Node js
 * 🤝  I'm open to collaborating on Projects
