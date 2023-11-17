@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a dreamer . A fullstack developer who keeps learning to improve myself and achieve that goal of becoming a software architect . I lover of all things Javascript , someone who likes experimenting with new frameworks and tools and building software solutions.
+I am a dreamer. A full stack developer who keeps learning to improve myself and achieve that goal of becoming a software architect . I lover of all things Javascript, someone who likes experimenting with new frameworks and tools and building software solutions.
 
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [mcwachira](http://https://mcwachira.dev/)
