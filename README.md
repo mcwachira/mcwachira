@@ -9,7 +9,7 @@ I am a passionate full-stack developer and lifelong learner, dedicated to honing
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [mcwachira](https://mcwachira.com/)
 * ✉️  You can contact me at [mcwachira@outlook.com](mailto:mcwachira@outlook.com)
-* 🧠  I'm learning Node js
+* 🧠  I'm learning Rust and PHP at the moment 
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
