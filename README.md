@@ -4,23 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a dreamer. A full stack developer who keeps learning to improve myself and achieve that goal of becoming a software architect . I lover of all things Javascript, someone who likes experimenting with new frameworks and tools and building software solutions.
-
-* 🌍  I'm based in Nairobi
-* 🖥️  See my portfolio at [mcwachira](https://mcwachira.com/)
-* ✉️  You can contact me at [mcwachira@outlook.com](mailto:mcwachira@outlook.com)
-* 🧠  I'm learning Node js
-* 🤝  I'm open to collaborating on Projects
-
-### Skills
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charles wachira
-=======================================================================================================================================
-
-Full Stack Developer
---------------------
-
-I am a dreamer. A full stack developer who keeps learning to improve myself and achieve that goal of becoming a software architect . I lover of all things Javascript, someone who likes experimenting with new frameworks and tools and building software solutions.
+I am a passionate full-stack developer and lifelong learner, dedicated to honing my skills and working toward my goal of becoming a software architect. I love programming and enjoy exploring new languages, frameworks, and tools to build innovative, effective software solutions. I thrive on experimentation and seek opportunities to grow and deliver high-quality results.
 
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [mcwachira](https://mcwachira.com/)
